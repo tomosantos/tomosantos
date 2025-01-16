@@ -41,5 +41,4 @@ I'm an aspiring actuary and data scientist with a deep passion for technology, i
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tomosantos&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 &nbsp;
-[![GitHub Streak](https://streak-stats.demolab.com?user=tomosantos&theme=bear&background=000)](https://git.io/streak-stats)
 
