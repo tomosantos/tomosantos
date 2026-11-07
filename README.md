@@ -1,44 +1,53 @@
-<!--
-**tomosantos/tomosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Wellinton 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>AI & Data Engineer</b> · building production AI systems and the data platforms behind them
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/wellinton-oliveira-a506331b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/tomosantos"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-<h1 align="center">Hi 👋, I'm Wellinton Oliveira</h1>
-<h3 align="center">A curious mind about Data, AI and ML</h3>
+---
 
-<h3 align="left">About me:</h3>
-I'm an aspiring actuary and data scientist with a deep passion for technology, innovation, economics, and finance. I am currently deepening my academic knowledge Economics, Software Engineering and Data Science.
+### about
 
+i'm a **product & ai engineer** based in brazil (gmt-3), currently at **ktech**, where i lead the development of **jarvis**: a multi-tenant ai platform for legal, public-sector and enterprise teams. before that i spent a year owning the **full data lifecycle** of a supply chain team on azure databricks, from raw ingestion to dashboards and ai apps.
 
-<h3 align="left">Connect with me:</h3>
+what i bring to a team:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellinton-oliveira-a506331b1/) 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomosantos)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/@wellintonolivei1)
+- **end-to-end ownership.** from product scoping and ux decisions to production, shipping 300–400 pull requests a month.
+- **agentic systems that hold up.** langgraph orchestration with human-in-the-loop checkpoints, memory, mcp tools and tracing, built with harness engineering principles.
+- **retrieval that works.** rag on qdrant with hybrid search, reranking and corrective rag over large document bases.
+- **data foundations.** medallion pipelines on databricks (pyspark, delta lake, unity catalog, mlflow) so the same governed data feeds analytics and ai.
 
+background in **actuarial science, economics and software engineering**, with international remote teams across supply chain, legal, cybersecurity and insurance.
 
-<h3 align="left">Languages and Tools:</h3>
+open to **international remote roles** in ai / data engineering.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+### selected work
 
-<h3 align="left">Stats:</h3>
+most of my work lives in private repos. a few public ones:
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tomosantos&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-&nbsp;
+| project | what it is |
+| :-- | :-- |
+| [**ic-ml-model**](https://github.com/tomosantos/ic-ml-model) | end-to-end ml pipeline on databricks predicting claims for brazilian rural insurance. pyspark, delta, unity catalog, feature store, mlflow and xgboost, with point-in-time features to avoid leakage and an out-of-time validation split. |
+| [**network-security**](https://github.com/tomosantos/network-security) | phishing detection with a full mlops pipeline: mongodb ingestion, schema and drift validation, mlflow and dagshub tracking, ci/cd through github actions to aws ecr and ec2, served by a fastapi prediction service. |
+| [**dash-macro**](https://github.com/tomosantos/dash-macro) | streamlit dashboard that tracks and forecasts brazil's ipca, selic, gdp and usd/brl with arima, prophet, random forest and xgboost, pulling from bacen and ibge on a weekly refresh. |
 
+happy to walk through the private code on a call.
+
+### stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,fastapi,flask,postgres,docker,aws,azure,git&perline=10" alt="Python, TypeScript, JavaScript, FastAPI, Flask, PostgreSQL, Docker, AWS, Azure, Git">
+</p>
+
+**ai:** langchain · langgraph · qdrant · mcp · langfuse · mlflow · scikit-learn · tensorflow
+**data:** azure databricks · pyspark · spark sql · delta lake · unity catalog · azure data factory · microsoft fabric · power bi · dax
+**tools:** claude code · codex · github copilot · n8n · streamlit
+
+### get in touch
+
+[linkedin](https://www.linkedin.com/in/wellinton-oliveira-a506331b1/) · [github](https://github.com/tomosantos)
